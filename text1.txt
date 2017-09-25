@@ -5,4 +5,9 @@ this is test1
 made some (conflicting maybe ?) changes !
 
 made some changes from github - this is the corect way !
+
 final changes !!! from master branch
+
+
+dev branch has new stuff here !!!! more and more 
+
