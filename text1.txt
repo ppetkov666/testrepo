@@ -1,9 +1,8 @@
 this is test1
 
 
-<<<<<<< .mine
+
 made some (conflicting maybe ?) changes !
-=======
+
 made some changes from github - this is the corect way !
->>>>>>> .theirs
-dev branch has new stuff here !!!!
+final changes !!! from master branch
