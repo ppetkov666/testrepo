@@ -1,4 +1,4 @@
 this is test1
 
 
-made some changes
+made some changes from github - this is the corect way !
